@@ -1,4 +1,4 @@
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/42-000000?style=flat&logo=42Seoul&logoColor=#ffffff"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/42Seoul-000000?style=flat&logo=42&logoColor=#ffffff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=42&logoColor=#ffffff"/></a>
 
 <!--
