@@ -1,5 +1,5 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/42Seoul-000000?style=flat&logo=42&logoColor=#ffffff"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=42&logoColor=#ffffff"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=#ffffff"/></a>
 
 <!--
 **dltkdgns00/dltkdgns00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
