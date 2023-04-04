@@ -62,6 +62,7 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=ffffff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=VisualStudio&logoColor=ffffff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/XCode-147EFB?style=flat&logo=XCode&logoColor=ffffff"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=AndroidStudio&logoColor=ffffff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/JetBrains-000000?style=flat&logo=JetBrains&logoColor=ffffff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse&logoColor=ffffff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=Vim&logoColor=ffffff"/></a>
@@ -85,21 +86,8 @@
 <!-- IoT -->
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Homebridge-491F59?style=flat&logo=Homebridge&logoColor=ffffff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Smartthings-15BFFF?style=flat&logo=Smartthings&logoColor=ffffff"/></a>
+<br>
+<br>
 
+![dltkdgns00's GitHub stats](https://github-readme-stats.vercel.app/api?username=dltkdgns00&show_icons=true&theme=swift)
 </div>
-
-
-<!--
-**dltkdgns00/dltkdgns00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
