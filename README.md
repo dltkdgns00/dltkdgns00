@@ -91,6 +91,6 @@
 
 ![dltkdgns00's GitHub stats](https://github-readme-stats.vercel.app/api?username=dltkdgns00&show_icons=true&theme=swift)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dltkdgns00&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dltkdgns00)](https://solved.ac/dltkdgns00)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dltkdgns00&layout=compact) [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dltkdgns00)](https://solved.ac/dltkdgns00)
 
 </div>
