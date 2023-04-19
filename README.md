@@ -83,6 +83,10 @@
 ## 🛠️ Tools
 <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" height=40px width=40px/> <img src="https://user-images.githubusercontent.com/101442533/231049008-c743ef88-4a2d-408b-81ea-e38f0462bb37.png" height=40px width=40px/> <img src="https://user-images.githubusercontent.com/101442533/231049321-e027567f-ce66-4ec6-8e1d-1f301b13eb56.png" height=40px width=40px/> <img src="https://cdn.svgporn.com/logos/docker-icon.svg" height=40px width=40px/> <img src="https://cdn.svgporn.com/logos/git-icon.svg" height=40px width=40px/> <img src="https://user-images.githubusercontent.com/101442533/231060113-4cf6aad7-4d6e-45d9-ba9d-4d13f634e868.svg" height=40px width=40px/>
 
+## 🪄 Etc
+<img src="https://raw.githubusercontent.com/homebridge/branding/master/logos/homebridge-color-round-stylized.png" height=45px width=45px>
+<img src="https://play-lh.googleusercontent.com/zbO2ggF6K2YVII3qOfr0Knj3P0H7OdtTjZAcGBo3kK0vJppGoYsG4TMZINqyPlLa9vI" height=40px width=40px>
+<img src="https://user-images.githubusercontent.com/101442533/232945926-fc03f761-4873-4afd-b411-f58838dd8f02.png" height=45px width=45px>
 
 
 <br>
