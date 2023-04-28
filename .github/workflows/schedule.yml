@@ -19,3 +19,4 @@ jobs:
           SHOW_TOTAL_CODE_TIME: false
           SHOW_PROFILE_VIEWS: false
           SHOW_LOC_CHART: false
+          SHOW_SHORT_INFO : false
