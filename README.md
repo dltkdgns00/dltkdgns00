@@ -87,8 +87,6 @@
 <img src="https://raw.githubusercontent.com/homebridge/branding/master/logos/homebridge-color-round-stylized.png" height=45px width=45px><img src="https://play-lh.googleusercontent.com/zbO2ggF6K2YVII3qOfr0Knj3P0H7OdtTjZAcGBo3kK0vJppGoYsG4TMZINqyPlLa9vI" height=40px width=40px><img src="https://user-images.githubusercontent.com/101442533/232945926-fc03f761-4873-4afd-b411-f58838dd8f02.png" height=45px width=45px>
 
 
-<br>
-
 <div align=center>
 <h1>📑 Stats</h1>
 
