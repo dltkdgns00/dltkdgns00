@@ -88,12 +88,8 @@
 
 
 <div align=center>
-<h1>📑 Stats</h1>
 
-![dltkdgns00's GitHub stats](https://github-readme-stats.vercel.app/api?username=dltkdgns00&show_icons=true&theme=swift)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dltkdgns00&layout=compact)
-
-## 📊 Metrics
+<h1>📊 Metrics</h1>
 <details>
 <summary>Click to see</summary>
 
