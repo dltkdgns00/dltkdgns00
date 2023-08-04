@@ -17,74 +17,21 @@
 
 
 ## 💻 Tech Stacks
-<table>
-<tr>
-<th>
-<img src="https://cdn.svgporn.com/logos/dart.svg" height=40px width=40px/>
-</th>
-<th>
-<img src="https://cdn.svgporn.com/logos/kotlin-icon.svg" height=40px width=40px/>
-</th>
-<th>
-<img src="https://cdn.svgporn.com/logos/swift.svg" height=40px width=40px/>
-</th>
-<th>
-<img src="https://cdn.svgporn.com/logos/html-5.svg" height=40px width=40px/>
-</th>
-<th>
-<img src="https://cdn.svgporn.com/logos/javascript.svg" height=40px width=40px/>
-</th>
-<th>
-<img src="https://cdn.svgporn.com/logos/java.svg" height=40px width=40px/>
-</th>
-</tr>
-<tr>
-<th>
-<img src="https://cdn.svgporn.com/logos/flutter.svg" height=40px width=40px/>
-</th>
-<th>
-<img src="https://cdn.svgporn.com/logos/android-icon.svg" height=40px width=40px/>
-</th>
-<th>
-<img src="https://cdn.svgporn.com/logos/cocoapods.svg" height=40px width=40px/>
-</th>
-<th>
-<img src="https://cdn.svgporn.com/logos/css-3.svg" height=40px width=40px/>
-</th>
-<th>
-<img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" height=40px width=40px/>
-</th>
-<th>
-<img src="https://cdn.svgporn.com/logos/spring-icon.svg" height=40px width=40px/>
-</th>
-</tr>
-<tr>
-<th>
-<img src="https://cdn.svgporn.com/logos/mysql.svg" height=40px width=40px/>
-</th>
-<th>
-<img src="https://cdn.svgporn.com/logos/mariadb.svg" height=40px width=40px/>
-</th>
-<th>
-<img src="https://cdn.svgporn.com/logos/firebase.svg" height=40px width=40px/>
-</th>
-<th>
-<img src="https://cdn.svgporn.com/logos/apache.svg" height=40px width=40px/>
-</th>
-<th>
-<img src="https://cdn.svgporn.com/logos/nginx.svg" height=40px width=40px/>
-</th>
-<th>
-<img src="https://cdn.svgporn.com/logos/raspberry-pi.svg" height=40px width=40px/>
-</th>
-</tr>
-</table>
+
+### Languages
+[![My Languages](https://skillicons.dev/icons?i=dart,py,typescript,c,cpp,java)](https://skillicons.dev)
+
+### Frameworks
+[![My Frameworks](https://skillicons.dev/icons?i=flutter,nextjs,nodejs,flask,pytorch,tensorflow,spring,arduino)](https://skillicons.dev)
+
+### Databases
+[![My Databases](https://skillicons.dev/icons?i=mysql,firebase)](https://skillicons.dev)
+
+### DevOps
+[![My DevOps](https://skillicons.dev/icons?i=nginx,raspberrypi,cloudflare,aws)](https://skillicons.dev)
 
 ## 🛠️ Tools
-<img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" height=40px width=40px/> <img src="https://user-images.githubusercontent.com/101442533/231049008-c743ef88-4a2d-408b-81ea-e38f0462bb37.png" height=40px width=40px/> <img src="https://user-images.githubusercontent.com/101442533/231049321-e027567f-ce66-4ec6-8e1d-1f301b13eb56.png" height=40px width=40px/> <img src="https://cdn.svgporn.com/logos/docker-icon.svg" height=40px width=40px/> <img src="https://cdn.svgporn.com/logos/git-icon.svg" height=40px width=40px/> <img src="https://user-images.githubusercontent.com/101442533/231060113-4cf6aad7-4d6e-45d9-ba9d-4d13f634e868.svg" height=40px width=40px/>
-
-## 🪄 Etc
-<img src="https://raw.githubusercontent.com/homebridge/branding/master/logos/homebridge-color-round-stylized.png" height=45px width=45px><img src="https://play-lh.googleusercontent.com/zbO2ggF6K2YVII3qOfr0Knj3P0H7OdtTjZAcGBo3kK0vJppGoYsG4TMZINqyPlLa9vI" height=40px width=40px><img src="https://user-images.githubusercontent.com/101442533/232945926-fc03f761-4873-4afd-b411-f58838dd8f02.png" height=45px width=45px>
+[![My Tools](https://skillicons.dev/icons?i=vscode,neovim,bash,github,git,docker,kubernetes,postman,figma)](https://skillicons.dev)
 
 
 <div align=center>
