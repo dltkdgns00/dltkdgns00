@@ -19,7 +19,7 @@ jobs:
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
           plugin_languages_ignored: html, css, scss
-          plugin_languages_skipped: blog-comments, dart-study, dltkdgns00, dltkdgns00.github.io, dltkdgns00.tk, ember_quest, flutter_study, my-first-web-site, MyFirstiOS, node.js-express, node.js-mysql-study, node.js-study, study-python
+          plugin_languages_skipped: blog-comments, dltkdgns00, dltkdgns00.github.io, dltkdgns00.tk
           plugin_languages_sections: most-used
           plugin_languages_details: bytes-size, percentage
           plugin_topics: yes
