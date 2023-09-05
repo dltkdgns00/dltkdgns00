@@ -28,10 +28,10 @@
 [![My Databases](https://skillicons.dev/icons?i=mysql,firebase)](https://skillicons.dev)
 
 ### DevOps
-[![My DevOps](https://skillicons.dev/icons?i=nginx,raspberrypi,cloudflare,aws)](https://skillicons.dev)
+[![My DevOps](https://skillicons.dev/icons?i=nginx,docker,kubernetes,raspberrypi,cloudflare,aws)](https://skillicons.dev)
 
 ## 🛠️ Tools
-[![My Tools](https://skillicons.dev/icons?i=vscode,neovim,bash,github,git,docker,kubernetes,postman,figma)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=vscode,neovim,bash,github,git,postman,figma)](https://skillicons.dev)
 
 
 <div align=center>
