@@ -19,7 +19,7 @@
 ## 💻 Tech Stacks
 
 ### Languages
-[![My Languages](https://skillicons.dev/icons?i=dart,py,typescript,c,cpp,java)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=dart,kotlin,py,typescript,c,cpp,java)](https://skillicons.dev)
 
 ### Frameworks
 [![My Frameworks](https://skillicons.dev/icons?i=flutter,nextjs,nodejs,flask,pytorch,tensorflow,spring,arduino)](https://skillicons.dev)
@@ -31,7 +31,7 @@
 [![My DevOps](https://skillicons.dev/icons?i=nginx,docker,kubernetes,raspberrypi,cloudflare,aws)](https://skillicons.dev)
 
 ## 🛠️ Tools
-[![My Tools](https://skillicons.dev/icons?i=vscode,neovim,bash,github,git,postman,figma)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=vscode,idea,neovim,bash,github,git,postman,figma)](https://skillicons.dev)
 
 
 <div align=center>
