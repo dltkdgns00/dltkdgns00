@@ -84,15 +84,13 @@
 <img src="https://github.com/dltkdgns00/ImageDatabase/assets/101442533/c98ef22c-086c-409e-8ab2-7c4234823d4f" style="height:48px">&nbsp;
 <img src="https://github.com/dltkdgns00/ImageDatabase/assets/101442533/10f9852e-135f-46ac-9c0d-57e3e21ec5c0" style="height:48px">
 
+<div align="center">
+
 <h1>📊 Metrics</h1>
 <details>
 <summary>Click to see</summary>
-
-<div align="center">
   
 ![Metrics](/github-metrics.svg)
-
-</div>
 
 </details>
 
