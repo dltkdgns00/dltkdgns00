@@ -12,7 +12,7 @@
 
 ## <img src="https://user-images.githubusercontent.com/101442533/231038932-21b237e3-0b88-4d32-9226-e9f6a78a9fab.png" style="height:30px"> Hi There! 👋🏻
 
-#### I'm SangHoon Lee `CTO of wevement`
+#### I'm SangHoon Lee
 
 -   👾 I'm an `Adaptive Developer`
 -   🔭 Various projects are underway to solve social problems.
