@@ -21,7 +21,7 @@
 
 ### Languages
 
-<!-- Dart, Kotlin, Python, TypeScript, C, Cpp, Java, Rust -->
+<!-- Dart, Kotlin, Python, TypeScript, C, Cpp, Java, Swift, Rust -->
 
 <img src="https://github.com/dltkdgns00/ImageDatabase/assets/101442533/664c8c65-ed15-400f-bdfb-abe1accf295a" style="height:48px">&nbsp;
 <img src="https://github.com/dltkdgns00/ImageDatabase/assets/101442533/cf4bfd55-f331-4134-8ae1-ea8e21619a84" style="height:48px">&nbsp;
@@ -30,6 +30,7 @@
 <img src="https://github.com/dltkdgns00/ImageDatabase/assets/101442533/1af149bc-6815-4187-a8f4-ebafa5ec969f" style="height:48px">&nbsp;
 <img src="https://github.com/dltkdgns00/ImageDatabase/assets/101442533/0ecba6f0-bbc4-4a3a-909e-fa41b918a285" style="height:48px">&nbsp;
 <img src="https://github.com/dltkdgns00/ImageDatabase/assets/101442533/c1341903-6c63-4d58-b168-f0122f2a91eb" style="height:48px">&nbsp;
+<img src="https://github.com/user-attachments/assets/fb71fd4a-b30f-469e-99d0-3345c4f0b237" style="height:48px">&nbsp;
 <img src="https://github.com/dltkdgns00/ImageDatabase/assets/101442533/dced98e0-38fa-4060-8415-42063b51471c" style="height:48px">
 
 ### Frameworks
