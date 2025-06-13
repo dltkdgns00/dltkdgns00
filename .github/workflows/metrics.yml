@@ -28,8 +28,4 @@ jobs:
           plugin_topics_sort: activity
           plugin_stars: yes
           plugin_stars_limit: 2
-          plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, editors-graphs, os, os-graphs
-          plugin_wakatime_url: http://wakapi.dev
-          plugin_sponsors: yess
+          plugin_sponsors: yes
