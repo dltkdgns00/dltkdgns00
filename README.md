@@ -3,14 +3,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=3E70F5&height=240&section=header&text=Sang%20Hoon%20&fontSize=90&fontColor=FFFFFF&animation=twinkling)
 <br>
 
-<img src="https://user-images.githubusercontent.com/101442533/231036848-470297bf-1b0e-4e40-8609-07258c06c3d0.png"/>
 </div>
 
 <div align=center>
 <h1>🍀 Info</h1>
 </div>
 
-## <img src="https://user-images.githubusercontent.com/101442533/231038932-21b237e3-0b88-4d32-9226-e9f6a78a9fab.png" style="height:30px"> Hi There! 👋🏻
+## Hi There! 👋🏻
 
 #### I'm SangHoon Lee
 
