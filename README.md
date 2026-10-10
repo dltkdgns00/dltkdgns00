@@ -13,6 +13,8 @@
 
 #### I'm SangHoon Lee
 
+-   🏢 **Founder & CTO** @ [SolidLab](https://github.com/SolidLab-dev)
+-   ⚙️ **Systems Engineer** @ Daewon CTS
 -   👾 I'm an `Adaptive Multi-platform Developer` & `Systems Engineer`
 -   🔭 Currently focusing on **AI-driven applications**, **On-device AI**, and **Infrastructure Automation**.
 -   🌱 Various projects are underway to solve everyday and social problems.
