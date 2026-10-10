@@ -72,10 +72,10 @@
 
 ## 🚀 Projects & Experiences
 
-- **CTO System Deployment Automation** (Sep 2026 - Oct 2026)
+- **CTO System Deployment Automation** (Jun 2026 - Oct 2026)
   - 대원씨티에스 CTO 공정에서 5,468대 PC의 DISM 이미지 배포 및 세팅 자동화 스크립트 구현·운영
 - **끼니피그 (KkiniPig)** (Sep 2026)
-  - Gemini 1.5 Flash API를 활용한 AI 맞춤형 식단 계획 Flutter 웹 애플리케이션 (Wanted AI Championship 2026 출품작)
+  - Gemini 3.5 Flash API를 활용한 AI 맞춤형 식단 계획 Flutter 웹 애플리케이션 (Wanted AI Championship 2026 출품작)
 - **Multi-node Home Network & Infra** (Aug 2026)
   - WireGuard VPN, Cloudflare Tunnels, Flask 기반 WOL(Wake-on-LAN) 유틸리티를 활용한 서버 인프라 구축
 - **내 모임 지각비 관리 (fine-manager)** (Jul 2026)
@@ -83,7 +83,7 @@
 - **Ark** (Mar 2026 - Aug 2026)
   - Local Gemma 모델(flutter_gemma)과 로컬 DB를 연동한 온디바이스(On-device) AI 애플리케이션 개발
 - **BOJ-extension PRO** (Mar 2026 - Apr 2026)
-  - 사용자 2,100명 이상을 확보한 백준(BOJ)용 VS Code 확장 프로그램 개발 및 AI 코드 리뷰 기능 탑재
+  - 사용자 2,200명 이상을 확보한 백준(BOJ)용 VS Code 확장 프로그램 개발 및 AI 코드 리뷰 기능 탑재
 - **결혼예산의 정석** (Aug 2024 - Dec 2025)
   - Flutter, SQLite 등을 활용한 웨딩 예산 관리 멀티플랫폼 애플리케이션 런칭 및 운영
 
