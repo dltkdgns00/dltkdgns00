@@ -56,7 +56,7 @@
 <img src="https://github.com/dltkdgns00/ImageDatabase/assets/101442533/174307f6-1acc-4ddd-8094-1a7b7c62a632" style="height:48px">&nbsp;
 <img src="https://github.com/dltkdgns00/ImageDatabase/assets/101442533/29a2d9d6-bf7b-45fd-a6b5-780ac81b165e" style="height:48px">&nbsp;
 <img src="https://github.com/dltkdgns00/ImageDatabase/assets/101442533/02d14390-624b-4a02-99cc-7347f9ea5131" style="height:48px">&nbsp;
-<img src="https://github.com/dltkdgns00/ImageDatabase/assets/101442533/fa9d8941-b9de-4ff5-992e-072668079401" style="height:48px">
+<img src="https://github.com/dltkdgns00/ImageDatabase/assets/101442533/fa9d8941-b9de-4ff5-992e-072668079401" style="height:48px">&nbsp;
 <img src="https://github.com/user-attachments/assets/2bbac4da-493c-40f2-af05-29cadb6d36c8" style="height:48px">
 
 ### DevOps & Infra
