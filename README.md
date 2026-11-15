@@ -70,27 +70,6 @@
 <img src="https://github.com/dltkdgns00/ImageDatabase/assets/101442533/9e52394d-6e79-4e5f-81ee-eb67fdc6887d" style="height:48px">&nbsp;
 <img src="https://github.com/user-attachments/assets/33ea17bb-f3c2-4d32-8575-fb51bd8a45ff" style="height:48px">
 
----
-
-## 🚀 Projects & Experiences
-
-- **CTO System Deployment Automation** (Jun 2026 - Oct 2026)
-  - 대원씨티에스 CTO 공정에서 5,468대 PC의 DISM 이미지 배포 및 세팅 자동화 스크립트 구현·운영
-- **끼니피그 (KkiniPig)** (Sep 2026)
-  - Gemini 3.5 Flash API를 활용한 AI 맞춤형 식단 계획 Flutter 웹 애플리케이션 (Wanted AI Championship 2026 출품작)
-- **Multi-node Home Network & Infra** (Aug 2026)
-  - WireGuard VPN, Cloudflare Tunnels, Flask 기반 WOL(Wake-on-LAN) 유틸리티를 활용한 서버 인프라 구축
-- **내 모임 지각비 관리 (fine-manager)** (Jul 2026)
-  - Next.js와 Supabase를 활용하여 개발한 Toss 미니앱 스터디/모임 지각비 관리 서비스
-- **Ark** (Mar 2026 - Aug 2026)
-  - Local Gemma 모델(flutter_gemma)과 로컬 DB를 연동한 온디바이스(On-device) AI 애플리케이션 개발
-- **BOJ-extension PRO** (Mar 2026 - Apr 2026)
-  - 사용자 2,200명 이상을 확보한 백준(BOJ)용 VS Code 확장 프로그램 개발 및 AI 코드 리뷰 기능 탑재
-- **결혼예산의 정석** (Aug 2024 - Dec 2025)
-  - Flutter, SQLite 등을 활용한 웨딩 예산 관리 멀티플랫폼 애플리케이션 런칭 및 운영
-
----
-
 ## 🛠️ Tools
 
 <!-- Vscode, Intellij, Nvim, Bash, Github, Git, Postman, Figma -->
@@ -111,6 +90,25 @@
 <img src="https://github.com/dltkdgns00/ImageDatabase/assets/101442533/0d3079eb-d2d6-4254-8085-db31771c24ce" style="height:48px">&nbsp;
 <img src="https://github.com/dltkdgns00/ImageDatabase/assets/101442533/c98ef22c-086c-409e-8ab2-7c4234823d4f" style="height:48px">&nbsp;
 <img src="https://github.com/dltkdgns00/ImageDatabase/assets/101442533/10f9852e-135f-46ac-9c0d-57e3e21ec5c0" style="height:48px">
+
+## 🚀 Projects & Experiences
+
+- **CTO System Deployment Automation** (Jun 2026 - Oct 2026)
+  - 대원씨티에스 CTO 공정에서 5,468대 PC의 DISM 이미지 배포 및 세팅 자동화 스크립트 구현·운영
+- **끼니피그 (KkiniPig)** (Sep 2026)
+  - Gemini 3.5 Flash API를 활용한 AI 맞춤형 식단 계획 Flutter 웹 애플리케이션 (Wanted AI Championship 2026 출품작)
+- **Multi-node Home Network & Infra** (Aug 2026)
+  - WireGuard VPN, Cloudflare Tunnels, Flask 기반 WOL(Wake-on-LAN) 유틸리티를 활용한 서버 인프라 구축
+- **내 모임 지각비 관리 (fine-manager)** (Jul 2026)
+  - Next.js와 Supabase를 활용하여 개발한 Toss 미니앱 스터디/모임 지각비 관리 서비스
+- **Ark** (Mar 2026 - Aug 2026)
+  - Local Gemma 모델(flutter_gemma)과 로컬 DB를 연동한 온디바이스(On-device) AI 애플리케이션 개발
+- **BOJ-extension PRO** (Mar 2026 - Apr 2026)
+  - 사용자 2,200명 이상을 확보한 백준(BOJ)용 VS Code 확장 프로그램 개발 및 AI 코드 리뷰 기능 탑재
+- **결혼예산의 정석** (Aug 2024 - Dec 2025)
+  - Flutter, SQLite 등을 활용한 웨딩 예산 관리 멀티플랫폼 애플리케이션 런칭 및 운영
+
+---
 
 <div align="center">
 
