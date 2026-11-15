@@ -37,26 +37,27 @@
 
 ### Frameworks & AI
 
-<!-- Flutter, Nextjs, React, Nestjs, Django, PyTorch, Gemini, Local LLMs (Ollama) -->
+<!-- Flutter, Nextjs, React, Nestjs, Flask, PyTorch, Gemini, Gemma, Local LLMs (Ollama) -->
 
 <img src="https://github.com/dltkdgns00/ImageDatabase/assets/101442533/8a41603c-986f-41a5-b62c-0d2ea2275e46" style="height:48px">&nbsp;
 <img src="https://github.com/dltkdgns00/ImageDatabase/assets/101442533/0d2e7426-53f2-4c4d-9b6a-04b3236556dd" style="height:48px">&nbsp;
 <img src="https://github.com/dltkdgns00/ImageDatabase/assets/101442533/c7f0fc82-39c5-4ad8-8cc9-f6ee7913db13" style="height:48px">&nbsp;
 <img src="https://github.com/dltkdgns00/ImageDatabase/assets/101442533/ced6e1be-6640-421f-aac6-f60ba1ff67fa" style="height:48px">&nbsp;
-<img src="https://github.com/dltkdgns00/ImageDatabase/assets/101442533/ff947126-ccf1-4dc4-a914-fa9b0ce85227" style="height:48px">&nbsp;
+<img src="https://github.com/user-attachments/assets/1c1fd3df-7d98-4595-93f8-3a5656e06d67" style="height:48px">&nbsp;
 <img src="https://github.com/dltkdgns00/ImageDatabase/assets/101442533/cf362ad0-10ff-445b-9790-956e731e78f3" style="height:48px">&nbsp;
 <img src="https://github.com/dltkdgns00/ImageDatabase/assets/101442533/1620a5a3-d90f-4004-96f8-1faded07bba3" style="height:48px">&nbsp;
 <img src="https://github.com/user-attachments/assets/cef4c91c-77f9-411a-b9bf-e5894dca5528" style="height:48px">&nbsp;
+<img src="https://github.com/user-attachments/assets/1c2498d1-38ec-475c-a00a-838abf8271aa" style="height:48px">&nbsp;
 <img src="https://github.com/user-attachments/assets/c52574d1-1f1b-4520-93cc-a549ca507d31" style="height:48px">
 
 ### Databases
 
-<!-- Mysql, Postgresql, Supabase, Firebase, Realm, SQLite -->
+<!-- Mysql, Postgresql, Supabase, Firebase, SQlite, Supabase -->
 
 <img src="https://github.com/dltkdgns00/ImageDatabase/assets/101442533/174307f6-1acc-4ddd-8094-1a7b7c62a632" style="height:48px">&nbsp;
 <img src="https://github.com/dltkdgns00/ImageDatabase/assets/101442533/29a2d9d6-bf7b-45fd-a6b5-780ac81b165e" style="height:48px">&nbsp;
 <img src="https://github.com/dltkdgns00/ImageDatabase/assets/101442533/02d14390-624b-4a02-99cc-7347f9ea5131" style="height:48px">&nbsp;
-<img src="https://github.com/dltkdgns00/ImageDatabase/assets/101442533/fa9d8941-b9de-4ff5-992e-072668079401" style="height:48px">&nbsp;
+<img src="https://github.com/user-attachments/assets/6e735669-b720-4109-a778-48332c7bb1ee" style="height:48px">&nbsp;
 <img src="https://github.com/user-attachments/assets/2bbac4da-493c-40f2-af05-29cadb6d36c8" style="height:48px">
 
 ### DevOps & Infra
